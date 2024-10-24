@@ -39,112 +39,112 @@ Important Notes:
 - Blastoise - Complete (emme97)
 - Pikachu - Complete (Nolo33LP)
 - Raichu - Missing
-- Nidoqueen - complete
-- Nidoking  - complete
+- Nidoqueen - Complete
+- Nidoking  - Complete
 - Psyduck - Complete (ghoulslash)
 - Golduck - Complete (ghoulslash)
-- Poliwag - complete
-- Poliwhirl  - complete
-- Poliwrath  - complete
+- Poliwag - Complete
+- Poliwhirl  - Complete
+- Poliwrath  - Complete
 - Tentacool - Complete (Avara)
 - Tentacruel - Complete (Avara)
 - Slowpoke - Complete (ghoulslash)
 - Slowbro - Complete (ghoulslash)
 - Seel - Complete (ghoulslash)
 - Dewgong - Complete (ghoulslash)
-- Shellder - complete
-- Cloyster - complete
-- Krabby  - complete
-- Kingler - complete
-- Lickitung - complete
-- Rhydon - complete
-- Kangaskhan - complete
-- Horsea  - complete
-- Seadra - complete
-- Goldeen - complete
-- Seaking - complete
+- Shellder - Complete
+- Cloyster - Complete
+- Krabby  - Complete
+- Kingler - Complete
+- Lickitung - Complete
+- Rhydon - Complete
+- Kangaskhan - Complete
+- Horsea  - Complete
+- Seadra - Complete
+- Goldeen - Complete
+- Seaking - Complete
 - Staryu - Complete (ghoulslash)
 - Starmie - Complete (ghoulslash)
-- Tauros - complete
-- Gyarados  - complete
+- Tauros - Complete
+- Gyarados  - Complete
 - Lapras - Complete (Slawter666)
 - Vaporeon - Complete (ghoulslash)
-- Omanyte - complete
-- Omastar - complete
-- Kabuto - complete
-- Kabutops - complete
-- Snorlax - complete
-- Dratini - complete (michelle soto)
-- Dragonair - complete
-- Dragonite - complete
-- Mew - complete
+- Omanyte - Complete
+- Omastar - Complete
+- Kabuto - Complete
+- Kabutops - Complete
+- Snorlax - Complete
+- Dratini - Complete (michelle soto)
+- Dragonair - Complete
+- Dragonite - Complete
+- Mew - Complete
 
 ### Gen 2: 100%
-- Totodile - complete
-- Croconaw - complete
-- Feraligatr - complete
+- Totodile - Complete
+- Croconaw - Complete
+- Feraligatr - Complete
 - Sentret - Complete (gota_csm)
 - Furret - Complete (gota_csm)
 - Pichu - Missing
-- Chinchou - complete
-- Lanturn - complete
-- Marill - complete
+- Chinchou - Complete
+- Lanturn - Complete
+- Marill - Complete
 - Azumarill- Complete(Shiny)
-- Politoed - complete
-- Wooper - complete
-- Quagsire - complete
+- Politoed - Complete
+- Wooper - Complete
+- Quagsire - Complete
 - Slowking - Complete (ghoulslash)
-- Qwilfish - complete
-- Sneasel - complete
-- Corsola - complete
-- Remoraid - complete
-- Octillery - complete
-- Mantine - complete
-- Kingdra - complete
-- Miltank - complete
-- Suicune - complete
-- Tyranitar - complete
-- Lugia - complete
+- Qwilfish - Complete
+- Sneasel - Complete
+- Corsola - Complete
+- Remoraid - Complete
+- Octillery - Complete
+- Mantine - Complete
+- Kingdra - Complete
+- Miltank - Complete
+- Suicune - Complete
+- Tyranitar - Complete
+- Lugia - Complete
 
 ### Gen 3: 55% or so
-- Mudkip - complete
-- Marshtomp - complete
+- Mudkip - Complete
+- Marshtomp - Complete
 - Swampert - Complete (Zhyruk)
-- Zigzagoon - complete
-- Linoone - complete
-- Lotad - complete
-- Lombre - complete
-- Ludicolo - complete
-- Pelipper - complete
-- Makuhita - complete
-- Hariyama - complete
-- Azurill - complete
-- Aggron - complete
-- Carvanha - missing
-- Sharpedo - missing
+- Zigzagoon - Complete
+- Linoone - Complete
+- Lotad - Complete
+- Lombre - Complete
+- Ludicolo - Complete
+- Pelipper - Complete
+- Makuhita - Complete
+- Hariyama - Complete
+- Azurill - Complete
+- Aggron - Complete
+- Carvanha - Missing
+- Sharpedo - Missing
 - Wailmer - Complete (Hestia)
-- Wailord - missing
-- Barboach - missing
-- Whiscash - missing
-- Corphish - missing
-- Crawdaunt - missing
-- Feebas - missing
-- Milotic - complete
+- Wailord - Missing
+- Barboach - Missing
+- Whiscash - Missing
+- Corphish - Missing
+- Crawdaunt - Missing
+- Feebas - Missing
+- Milotic - Complete
 - Spheal - Complete (ghoulslash)
 - Sealeo - Complete (ghoulslash)
 - Walrein - Complete (ghoulslash)
-- Clamperl - missing
-- Huntail - missing
-- Gorebyss - missing
-- Relicanth - missing
-- Luvdisc - missing
-- Latias - missing
-- Latios - missing
-- Kyogre - complete
-- Rayquaza - missing
+- Clamperl - Missing
+- Huntail - Missing
+- Gorebyss - Missing
+- Relicanth - Missing
+- Luvdisc - Missing
+- Latias - Missing
+- Latios - Missing
+- Kyogre - Complete
+- Rayquaza - Missing
 
 ## Tradebacks (Receives Surf in a later gen)
-- Exploud - complete
+- Exploud - Complete
 
 Original thread (by ghoulslash):
 https://www.pokecommunity.com/threads/fire-red-dynamic-surf-overworlds.420665/
