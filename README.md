@@ -140,7 +140,7 @@ TODOs:
 - Hariyama - Complete
 - Azurill - Complete
 - Aggron - Complete
-- Carvanha - Missing
+- Carvanha - Missing [Currently claimed by Shiny Miner's friend]
 - Sharpedo - Missing
 - Wailmer - Complete (Hestia)
 - Wailord - Missing
