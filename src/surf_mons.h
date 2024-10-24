@@ -116,23 +116,23 @@ extern const u32 pikachuTiles[];
 extern const u16 pikachuPal[];
 extern const u16 pikachuShinyPal[];
 const struct SpriteFrameImage gSurfingOverworldPicTable_Pikachu[] = {
-    overworld_frame(&pikachuTiles[0], 4, 4, 1),
-    overworld_frame(&pikachuTiles[0], 4, 4, 0),
-    overworld_frame(&pikachuTiles[0], 4, 4, 3),
-    overworld_frame(&pikachuTiles[0], 4, 4, 2),
-    overworld_frame(&pikachuTiles[0], 4, 4, 5),
-    overworld_frame(&pikachuTiles[0], 4, 4, 4),
+    overworld_frame(&pikachuTiles[0], 8, 8, 1),
+    overworld_frame(&pikachuTiles[0], 8, 8, 0),
+    overworld_frame(&pikachuTiles[0], 8, 8, 3),
+    overworld_frame(&pikachuTiles[0], 8, 8, 2),
+    overworld_frame(&pikachuTiles[0], 8, 8, 5),
+    overworld_frame(&pikachuTiles[0], 8, 8, 4),
 };
 const struct SpriteFrameImage gSurfingOverlayPicTable_Pikachu[] = {
-    overworld_frame(&pikachuTiles[0], 4, 4, 7),
-    overworld_frame(&pikachuTiles[0], 4, 4, 6),
-    overworld_frame(&pikachuTiles[0], 4, 4, 9),
-    overworld_frame(&pikachuTiles[0], 4, 4, 8),
-    overworld_frame(&pikachuTiles[0], 4, 4, 11),
-    overworld_frame(&pikachuTiles[0], 4, 4, 10),
+    overworld_frame(&pikachuTiles[0], 8, 8, 7),
+    overworld_frame(&pikachuTiles[0], 8, 8, 6),
+    overworld_frame(&pikachuTiles[0], 8, 8, 9),
+    overworld_frame(&pikachuTiles[0], 8, 8, 8),
+    overworld_frame(&pikachuTiles[0], 8, 8, 11),
+    overworld_frame(&pikachuTiles[0], 8, 8, 10),
 };
-const struct SpriteTemplate sPikachuOverworld = surf_template(PAL_TAG_SURF_NEW, gSurfingOverworldPicTable_Pikachu, UpdateSurfBlobFieldEffect);
-const struct SpriteTemplate sPikachuOverlay = surf_template(PAL_TAG_SURF_NEW, gSurfingOverlayPicTable_Pikachu, UpdateSurfMonOverlay);
+const struct SpriteTemplate sPikachuOverworld = surf_template64x64(PAL_TAG_SURF_NEW, gSurfingOverworldPicTable_Pikachu, UpdateSurfBlobFieldEffect);
+const struct SpriteTemplate sPikachuOverlay = surf_template64x64(PAL_TAG_SURF_NEW, gSurfingOverlayPicTable_Pikachu, UpdateSurfMonOverlay);
 
 //=============== NIDOQUEEN
 extern const u32 nidoqueenTiles[];
