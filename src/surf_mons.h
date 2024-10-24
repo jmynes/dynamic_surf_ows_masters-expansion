@@ -2368,13 +2368,13 @@ const struct RideableMons gSurfablePokemon[] =
 		.overworldGfx = &sBlastoiseOverworld,
 		.overlayGfx = &sBlastoiseOverlay,
 	},
-        {
-            .species = SPECIES_PIKACHU,
-            .palAddr = &pikachuPal[0],
-            .shinyPalAddr = &pikachuShinyPal[0],
-            .overworldGfx = &sPikachuOverworld,
-            .overlayGfx = &sPikachuOverlay,
-        },
+	{
+		.species = SPECIES_PIKACHU,
+		.palAddr = &pikachuPal[0],
+		.shinyPalAddr = &pikachuShinyPal[0],
+		.overworldGfx = &sPikachuOverworld,
+		.overlayGfx = &sPikachuOverlay,
+	},
 {
   .species = SPECIES_NIDOQUEEN,
   .palAddr = &nidoqueenPal[0],
