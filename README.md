@@ -42,6 +42,14 @@ TODOs:
 
 4. Populate a list of Gen 4-9 Pokemon that get Surf
 
+5. Assign Pikachu's sprite, game currently displays standard Surf blob
+
+6. Assign sprites for added Pichu, Raichu
+
+7. Test all sprites in-engine (see Tha Code Mining Hub's #surf-overworlds-expansion channel, and "Checking in-game" thread)
+
+8. Apply fixes from #7.
+
 =====================================================
 # Completed Pokemon
 ## Here is the spriting progress:
