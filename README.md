@@ -37,6 +37,8 @@ Important Notes:
 - Squirtle - Complete (emme97)
 - Wartortle - Complete (Avara)
 - Blastoise - Complete (emme97)
+- Pikachu - Complete (Nolo33LP)
+- Raichu - Missing
 - Nidoqueen - complete
 - Nidoking  - complete
 - Psyduck - Complete (ghoulslash)
@@ -76,12 +78,14 @@ Important Notes:
 - Dragonair - complete
 - Dragonite - complete
 - Mew - complete
+
 ### Gen 2: 100%
 - Totodile - complete
 - Croconaw - complete
 - Feraligatr - complete
 - Sentret - Complete (gota_csm)
 - Furret - Complete (gota_csm)
+- Pichu - Missing
 - Chinchou - complete
 - Lanturn - complete
 - Marill - complete
@@ -112,7 +116,6 @@ Important Notes:
 - Lombre - complete
 - Ludicolo - complete
 - Pelipper - complete
-- Exploud - complete
 - Makuhita - complete
 - Hariyama - complete
 - Azurill - complete
@@ -139,6 +142,9 @@ Important Notes:
 - Latios - missing
 - Kyogre - complete
 - Rayquaza - missing
+
+## Tradebacks (Receives Surf in a later gen)
+- Exploud - complete
 
 Original thread (by ghoulslash):
 https://www.pokecommunity.com/threads/fire-red-dynamic-surf-overworlds.420665/
