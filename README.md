@@ -1,5 +1,5 @@
 # Dynamic surfing overworlds for FR (expansion by Shiny miner, ansh)
-##Trying to complete gen 1-3 as soon as we can
+## Trying to complete gen 1-3 as soon as we can
 for any queries contact me on discord- shinyhunter08
 
 =====================================================
@@ -31,13 +31,25 @@ Important Notes:
 3. Fire Red likes vertical images, and as such the sprites have to have all their frames lined up vertically, as opposed to the pokeem images that are layered horizontally. While annoying, changing the frame ordering isn't a big deal, and I hope this won't stand in the way of community art being shared.
 
 =====================================================
+
+TODOs:
+
+1. Verify that each Pokemon has a matching Shiny sprite
+
+2. Try to identify any missing credits via pokecommunity thread (or old repo), if possible
+
+3. Populate a list of tradebacks/tradeforwards for Surf (Gen 1-3 Pokemon that get Surf in a different Gen), including Events
+
+4. Populate a list of Gen 4-9 Pokemon that get Surf
+
+=====================================================
 # Completed Pokemon
 ## Here is the spriting progress:
 ### Gen I : 100%
 - Squirtle - Complete (emme97)
 - Wartortle - Complete (Avara)
 - Blastoise - Complete (emme97)
-- Pikachu - Complete (Nolo33LP)
+- Pikachu - Non-Shiny is Complete (Nolo33LP)
 - Raichu - Missing
 - Nidoqueen - Complete
 - Nidoking  - Complete
