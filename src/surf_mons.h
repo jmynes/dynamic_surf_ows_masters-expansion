@@ -111,6 +111,29 @@ const struct SpriteFrameImage gSurfingOverlayPicTable_Blastoise[] = {
 const struct SpriteTemplate sBlastoiseOverworld = surf_template(PAL_TAG_SURF_NEW, gSurfingOverworldPicTable_Blastoise, UpdateSurfBlobFieldEffect);
 const struct SpriteTemplate sBlastoiseOverlay = surf_template(PAL_TAG_SURF_NEW, gSurfingOverlayPicTable_Blastoise, UpdateSurfMonOverlay);
 
+//=============== PIKACHU
+extern const u32 pikachuTiles[];
+extern const u16 pikachuPal[];
+extern const u16 pikachuShinyPal[];
+const struct SpriteFrameImage gSurfingOverworldPicTable_Pikachu[] = {
+    overworld_frame(&pikachuTiles[0], 4, 4, 1),
+    overworld_frame(&pikachuTiles[0], 4, 4, 0),
+    overworld_frame(&pikachuTiles[0], 4, 4, 3),
+    overworld_frame(&pikachuTiles[0], 4, 4, 2),
+    overworld_frame(&pikachuTiles[0], 4, 4, 5),
+    overworld_frame(&pikachuTiles[0], 4, 4, 4),
+};
+const struct SpriteFrameImage gSurfingOverlayPicTable_Pikachu[] = {
+    overworld_frame(&pikachuTiles[0], 4, 4, 7),
+    overworld_frame(&pikachuTiles[0], 4, 4, 6),
+    overworld_frame(&pikachuTiles[0], 4, 4, 9),
+    overworld_frame(&pikachuTiles[0], 4, 4, 8),
+    overworld_frame(&pikachuTiles[0], 4, 4, 11),
+    overworld_frame(&pikachuTiles[0], 4, 4, 10),
+};
+const struct SpriteTemplate sPikachuOverworld = surf_template(PAL_TAG_SURF_NEW, gSurfingOverworldPicTable_Pikachu, UpdateSurfBlobFieldEffect);
+const struct SpriteTemplate sPikachuOverlay = surf_template(PAL_TAG_SURF_NEW, gSurfingOverlayPicTable_Pikachu, UpdateSurfMonOverlay);
+
 //=============== NIDOQUEEN
 extern const u32 nidoqueenTiles[];
 extern const u16 nidoqueenPal[];
@@ -2345,6 +2368,13 @@ const struct RideableMons gSurfablePokemon[] =
 		.overworldGfx = &sBlastoiseOverworld,
 		.overlayGfx = &sBlastoiseOverlay,
 	},
+        {
+            .species = SPECIES_PIKACHU,
+            .palAddr = &pikachuPal[0],
+            .shinyPalAddr = &pikachuShinyPal[0],
+            .overworldGfx = &sPikachuOverworld,
+            .overlayGfx = &sPikachuOverlay,
+        },
 {
   .species = SPECIES_NIDOQUEEN,
   .palAddr = &nidoqueenPal[0],
